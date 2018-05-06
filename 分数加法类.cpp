@@ -1,6 +1,7 @@
 #include<iostream>
 #include<cmath>
 using namespace std;
+//作者:chenyao
 class FS{
 	int fz,fm;
 	public:
